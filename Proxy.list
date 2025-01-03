@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,gradient.network
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,365lpodds.com
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
